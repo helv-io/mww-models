@@ -6,9 +6,6 @@
   "model": "hey_eddie.tflite",
   "trained_languages": ["en"],
   "version": 2,
-  "model_format": "tflite_stream_state_internal_quant",
-  "quantization": "int8",
-  "sample_rate": 16000,
   "micro": {
     "probability_cutoff": 0.95,
     "sliding_window_size": 5,
